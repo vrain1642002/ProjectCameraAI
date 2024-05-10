@@ -1,0 +1,2 @@
+-Link usecase,uml class,mockup trên figma
+https://www.figma.com/file/mwS67ipRcKncSmqBNV4Xku/Bai-giu-xe-thong-minh?type=design&node-id=38%3A8&mode=design&t=K1uN0hjCMSGLEEXT-1

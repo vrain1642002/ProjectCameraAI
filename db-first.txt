@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=(local);Initial Catalog=csdl_baigiuxe;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
